@@ -1,0 +1,8 @@
+torch==1.4.0
+torchvision
+tqdm
+progress
+pandas
+torchsummary
+pytorch_ssim
+python_opencv
